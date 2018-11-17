@@ -1,5 +1,3 @@
-# help
 OCR
 Optical character Reader  
-1 text detection(east text detecting algorithm)
-2 text recognition(tesseract)
+Made using Text detection(east text detecting algorithm)Text recognition(tesseract)
